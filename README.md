@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Begüm</h1>
-<h3 align="center">I'm a full-stack developer</h3>
+<h3 align="center">I'm a full-stack developer 👩‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=begummgnd&label=Profile%20views&color=0e75b6&style=flat" alt="begummgnd" /> </p>
+
+- 🚀 I’m interested in **Java, Spring Framework, React Js and Asp .Net Core technologies and I develop projects in these areas.**
 
 - 📫 How to reach me **begumgundogdu_7076@outlook.com**
 
