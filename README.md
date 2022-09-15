@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=begummgnd&label=Profile%20views&color=0e75b6&style=flat" alt="begummgnd" /> </p>
 
-- 🚀 I’m interested in **Java, Spring Framework, JavaScript, React Js and Asp .Net Core technologies and I develop projects in these areas.**
+- 🚀 I’m interested in **Java, Spring Framework, React Js and Asp .Net Core technologies and I develop projects in these areas.**
 
 - 📫 How to reach me **begumgundogdu_7076@outlook.com**
 
